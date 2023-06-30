@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in India,New Delhi 
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href=" ">Portfolio</a>
+<!-- *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href=" ">Portfolio</a> !--> 
 *   🧠  Currently learning React
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
